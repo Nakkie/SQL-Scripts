@@ -1,2 +1,2 @@
-# test_load
-Test load for SQL scripts
+# SQL_Scripts
+SQL script repository
